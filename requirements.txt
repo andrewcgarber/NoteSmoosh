@@ -60,6 +60,7 @@ Mako==1.0.3
 Markdown==3.1.1
 MarkupSafe==0.23
 more-itertools==7.2.0
+nltk==3.4.5
 numpy==1.17.2
 oauthlib==1.0.3
 olefile==0.46
@@ -101,8 +102,10 @@ pyxdg==0.25
 PyYAML==3.11
 reportlab==3.3.0
 requests==2.9.1
+scikit-learn==0.22
 simplejson==3.16.0
 six==1.12.0
+sklearn==0.0
 sortedcontainers==2.1.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
