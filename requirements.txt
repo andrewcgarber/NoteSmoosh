@@ -94,7 +94,7 @@ PyPDF2==1.26.0
 pytest==5.2.4
 python-dateutil==1.5
 python-docx==0.8.10
-python-gnupg==0.3.8
+python-gnupg==0.4.4
 python-pptx==0.6.18
 python3-tk == 3.5.1-1
 pyxdg==0.25
