@@ -62,6 +62,10 @@ Congrats! You are now running NoteSmoosh on Windows!
 
 ### Todos
 
+WARNINGS: Application may crash if a Word Doc is used at the second file.
+
+### Todos
+
  - Merge on Headers full integration
  - Web hosted application
 
