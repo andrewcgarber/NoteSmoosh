@@ -56,13 +56,16 @@ $ py -3.5 -m pip install requirements.txt
 ```
 Final step, run the program:
 ```sh
-$ py -3.5 NoteSmoosh_v2.py
+$ py -3.5 NoteSmoosh_win.py
 ```
 Congrats! You are now running NoteSmoosh on Windows!
 
 ### Todos
 
-WARNINGS: Application may crash if a Word Doc is used at the second file.
+WARNINGS: 
+- Application may crash if a Word Doc is used at the second file.
+- For Windows, you will need to have a DOCX or TXT file already created in order to write text.
+
 
 ### Todos
 
