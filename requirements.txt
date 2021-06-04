@@ -26,7 +26,7 @@ chardet==3.0.4
 checkbox-support==0.22
 cheroot==8.2.1
 CherryPy==18.4.0
-Django==2.2.8
+Django==2.2.21
 docx==0.2.4
 docx2txt==0.8
 EbookLib==0.17.1
