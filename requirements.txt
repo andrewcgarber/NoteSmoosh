@@ -64,7 +64,7 @@ nltk==3.4.5
 numpy==1.17.2
 oauthlib==1.0.3
 olefile==0.46
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 opencv-python==4.1.1.26
 packaging==19.2
 padme==1.1.1
